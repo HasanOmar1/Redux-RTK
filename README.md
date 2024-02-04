@@ -1,5 +1,7 @@
 # React RTK Redux
 
-- Clone this repository using the `git clone`
+- Clone this repository using `git clone` command
 - Run `npm install` inside the root directory of the project
-- run `npm run dev` in order to test the app
+- Run `npm run dev` in order to test the app
+
+### I used mockapi to fetch data , you can use any backend server.
